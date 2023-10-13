@@ -17,7 +17,7 @@ public class SellerDaoJDBC implements SellerDao{
 	public void update(Seller obj) {
 		// TODO Auto-generated method stub
 		
-	}
+	} 
 
 	@Override
 	public void deleteById(Integer id) {
